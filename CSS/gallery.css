@@ -2,7 +2,7 @@
 body{
     margin: 2%;
     border: 1px solid black;
-    background-color: #b3b3b3;
+    background-color: #d0afff;
 }
 #image{
 line-height:650px;
@@ -25,7 +25,7 @@ span{
 .preview{
     width:10%;
     margin-left:17%;
-border: 10px solid black;
+border: 3px solid black;
 }
 img{
     width:95%;
